@@ -66,7 +66,9 @@ echo "sudo docker exec -it local-mongo mongo"
 
 # Make the Script Executable
 chmod +x setup-mongodb.sh
+
 ./setup-mongodb.sh
+
 This script will start a MongoDB container, configure it for CDMS, and open the necessary port.
 
 # Using CDMS
