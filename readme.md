@@ -62,6 +62,7 @@ EOF
 echo "MongoDB setup is complete."
 echo "To connect to the MongoDB shell, use the following command:"
 echo "sudo docker exec -it local-mongo mongo"
+```
 
 # Make the Script Executable
 chmod +x setup-mongodb.sh
