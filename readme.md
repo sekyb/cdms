@@ -62,6 +62,7 @@ EOF
 echo "MongoDB setup is complete."
 echo "To connect to the MongoDB shell, use the following command:"
 echo "sudo docker exec -it local-mongo mongo"
+```
 
 ```
 
@@ -128,4 +129,10 @@ This document should guide you through setting up and using CDMS. If you encount
 # License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
+<<<<<<< HEAD
 Developed by sekyb
+=======
+---
+
+**Developed by [sekyb](https://github.com/sekyb)**
+>>>>>>> 53cd60ca21daf7ad9d84d7c7095fa13f363b6b13
